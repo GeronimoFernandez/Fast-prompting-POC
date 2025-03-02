@@ -3,12 +3,15 @@ Comisión 71900
 Gerónimo Fernández
 
 Presentación del problema a abordar
+
 La generación de contenido atractivo para promocionar productos o servicios en redes sociales es esencial para captar la atención de la audiencia y maximizar la efectividad de las campañas publicitarias. En un entorno digital saturado de información, se vuelve crucial destacar frente a la competencia. Este proyecto busca resolver la problemática de la creación de contenido publicitario en plataformas como Instagram, Facebook y Twitter, asegurando que el contenido sea atractivo, relevante y capaz de generar un alto nivel de interacción y conversión.
 
 Desarrollo de la propuesta de solución
+
 La solución planteada consiste en el uso de Inteligencia Artificial (IA) para la generación automática de contenido publicitario en formato de texto e imágenes. Se utilizarán herramientas como GPT-4 para la creación de textos persuasivos y modelos de generación de imágenes (como DALL-E o Stable Diffusion) para crear piezas visuales atractivas. Este proceso estará basado en una serie de parámetros definidos por el usuario, tales como el tipo de producto, la audiencia a la que se dirige, la plataforma y la promoción a destacar. La automatización de este proceso permitirá generar contenido de manera escalable y personalizada, sin la necesidad de intervención manual.
 
 Justificación de la viabilidad del proyecto
+
 El proyecto es completamente viable dado el acceso a potentes herramientas de IA. La generación de contenido mediante IA no solo es rápida, sino que también permite la creación de múltiples variantes de anuncios adaptados a diferentes públicos y plataformas. Además, la posibilidad de automatizar la creación de prompts y la generación de imágenes facilita un ciclo de trabajo continuo y eficiente, optimizando tanto el tiempo como los recursos disponibles.
 
 Ventajas:
