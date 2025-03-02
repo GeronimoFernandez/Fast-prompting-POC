@@ -52,9 +52,11 @@ El proyecto se llevará a cabo en tres fases:
 Fase 1 - Investigación y Preparación
 Investigación sobre el producto o servicio y su público objetivo.
 Selección de herramientas de IA adecuadas (Stable Diffusion para imágenes).
+
 Fase 2 - Generación de Contenido
 Desarrollo y prueba de prompts automáticos para generar textos y imágenes.
 Creación y refinamiento de los primeros lotes de contenido.
+
 Fase 3 - Implementación y Análisis de Resultados
 Publicación del contenido generado en redes sociales.
 Monitorización del rendimiento (alcance, interacción, conversiones).
