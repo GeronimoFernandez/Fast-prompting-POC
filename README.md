@@ -30,14 +30,6 @@ Antes de crear el contenido, se realiza una investigación exhaustiva sobre el p
 2. Diseño de Prompts Eficientes
 Se desarrollan prompts automatizados que permiten generar textos publicitarios de forma rápida y precisa, personalizados según el producto, audiencia y plataforma. Esta personalización es crucial para aumentar la efectividad del contenido generado.
 
-Ejemplo de función para generar el prompt:
-
-python
-Copiar
-Editar
-def define_prompt(negocio, audiencia, plataforma, promocion):
-    prompt = f"Genera una imagen publicitaria vibrante para un {negocio}. Muestra los productos más destacados como {promocion}. En el fondo, incluye elementos que resalten la categoría del negocio, usando colores que conecten con {audiencia}. El mensaje principal debe decir: '¡No te lo pierdas!'."
-    return prompt
 3. Generación de Contenido
 Generación de Textos Publicitarios: Se utilizarán modelos de IA como GPT-4 para generar textos publicitarios breves y persuasivos, ajustados a las características del producto y la audiencia objetivo.
 Generación de Imágenes Publicitarias: Mediante modelos como DALL-E o Stable Diffusion, se crearán imágenes atractivas que acompañen los textos publicitarios.
